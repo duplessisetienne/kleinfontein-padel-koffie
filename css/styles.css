@@ -367,16 +367,6 @@ h3 {
   margin: 0;
 }
 
-.fb-embed-wrap {
-  max-width: 500px;
-  margin: 1.5rem auto 0;
-}
-
-.fb-embed-wrap span,
-.fb-embed-wrap iframe {
-  width: 100% !important;
-}
-
 .gallery-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
